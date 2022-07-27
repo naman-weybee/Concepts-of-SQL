@@ -1,0 +1,5 @@
+--SQL Create DB
+
+CREATE DATABASE myDB;
+
+CREATE DATABASE testDB;

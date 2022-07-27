@@ -1,0 +1,5 @@
+--SQL Drop DB
+
+CREATE DATABASE newDB;
+
+DROP DATABASE newDB;
